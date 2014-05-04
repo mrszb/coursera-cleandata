@@ -12,7 +12,7 @@
 * changes data in Activity col to human readable labels
 * averages data aggregated by Activity, Subject 
 
-** function mergedata( ... )
+** function **mergedata( ... )**
 * loads data from x_|y_|subject_ files
 * filters x_ set for interesting features only using features.index
 * merge data combines data from x_|y_|subject files into one 
